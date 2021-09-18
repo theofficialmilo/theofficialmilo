@@ -20,4 +20,4 @@ Currently, working on a passion project called Typoway. It is an Email Designing
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ### You can reach me at:
-<p><a href="https://www.linkedin.com/in/theofficialmilo/"  target="_blank"></a><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></p>
+<p><a href="https://www.linkedin.com/in/theofficialmilo/"  target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
