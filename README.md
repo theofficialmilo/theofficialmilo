@@ -2,6 +2,7 @@
 A Fullstack Developer from Indonesia. Very Enthusiastic about developing digital solutions to exsisting problems
 
 Currently, working on a passion project called Typoway. It is an Email Designing platform with a community driven marketplace to allow email designers to create email designs with ease.
+<p><a href="https://www.linkedin.com/in/theofficialmilo/"  target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
 
 ### Tools that I use
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,5 +20,4 @@ Currently, working on a passion project called Typoway. It is an Email Designing
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-### You can reach me at:
-<p><a href="https://www.linkedin.com/in/theofficialmilo/"  target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
+
